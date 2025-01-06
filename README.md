@@ -13,7 +13,7 @@ We are accelerating Large Language Model (LLM) computation using NVIDIA Tensor C
 - **Tasks:**
   - Research Tensor Core technology and mixed precision computation.
   - Identify performance bottlenecks using profiling tools (e.g., NVIDIA Nsight).
-  - Write the **Introduction** and **References** sections of the report.
+  - Write the **Introduction**, **Results** and **References** sections of the report.
 
 ### Member B: Optimization Design and Implementation
 
